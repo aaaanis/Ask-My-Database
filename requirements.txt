@@ -1,0 +1,11 @@
+pandas
+psycopg2-binary
+Flask
+Flask-SQLAlchemy
+discord.py
+discord-webhook
+langchain
+openai
+tiktoken
+jq
+chromadb
