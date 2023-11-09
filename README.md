@@ -4,7 +4,7 @@ Chat with your Postgres database using intuitive natural language queries throug
 
 ## Project Background
 
-This project was specifically developed to address a unique challenge: creating an API capable of receiving app reviews directly from store platforms, transmitted by Zapier. The AI-Powered Discord bot not only provides an interface to the database but also acts as an intermediary, processing and storing incoming reviews efficiently and effectively.
+This project was specifically developed to address a unique challenge: creating an API capable of receiving app reviews directly from store platforms, transmitted by Zapier. The AI-Powered Discord bot provides an interface to the database but also acts as an intermediary, processing reviews efficiently.
 
 ## Features
 
